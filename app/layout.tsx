@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MSTRS - Digital Agency 22MSTRS | Coming Soon",
-  description: "22mstrs is a digital agency crafting exceptional digital experiences. We open soon.",
+  title: "22MSTRS | Web Agency - Modern Web Solutions",
+  description: "22MSTRS is a web agency building modern websites with MongoDB, React, and Next.js. From concept to launch, we bring your digital vision to life.",
   icons: {
     icon: "/favicon.png",
   },
